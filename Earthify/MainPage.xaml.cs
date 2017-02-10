@@ -25,8 +25,8 @@ namespace Earthify
         public MainPage()
         {
             this.InitializeComponent();
-
-            Earthify.Backend.EathifyData.InitializeData();
         }
+
+        // TO DO: Develop frontend.
     }
 }
