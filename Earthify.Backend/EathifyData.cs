@@ -14,7 +14,7 @@ namespace Earthify.Backend
     public class EathifyData
     {
         /// <summary>
-        /// Stores all data items
+        /// Stores all data items.
         /// </summary>
         public static List<ImageModel> img_data;
 
