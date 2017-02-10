@@ -25,6 +25,8 @@ namespace Earthify
         public MainPage()
         {
             this.InitializeComponent();
+
+            Earthify.Backend.EathifyData.InitializeData();
         }
     }
 }
